@@ -71,7 +71,7 @@ div.post{
 }
 
 div.post .post-date{
-    font-size: 12px;
+    font-size: 0.75em;
     color: var(--brand);
     line-height: 42px;
 }
@@ -88,10 +88,10 @@ div.post .favorite:hover{
 }
 
 div.post .title{
-    font-size: 20px;
+    font-size: 1.25em;
 }
 
 div.post .text-post{ 
-    font-size: 14px;
+    font-size: 0.87em;
     color: var(--dark50);
 }
