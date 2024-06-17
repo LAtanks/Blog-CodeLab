@@ -3,13 +3,13 @@
 <h1 align="center">Blog-CodeLab</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/LAtanks/Blog-CodeLab?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/LAtanks/Blog-CodeLab?color=E07B67">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/LAtanks/Blog-CodeLab?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/LAtanks/Blog-CodeLab?color=E07B67">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LAtanks/Blog-CodeLab?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/LAtanks/Blog-CodeLab?color=E07B67">
 
-  <img alt="License" src="https://img.shields.io/github/license/LAtanks/Blog-CodeLab?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/LAtanks/Blog-CodeLab?color=E07B67">
 
 </p>
 
